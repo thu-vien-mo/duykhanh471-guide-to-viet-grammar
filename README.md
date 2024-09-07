@@ -32,17 +32,24 @@ All about making questions in a Youtube playlist: [Learn Vietnamese: Making Ques
 
 
 ### 1. Specific questions
-- [idk]()
+- [What Questions in Vietnamese](https://youtu.be/52oFEJokdss?list=PLpDgPu_Hq9ZxWC8CAODefCnjAov6t-3ev)
+- [When Questions in Vietnamese](https://youtu.be/-bUEK2O_89s?list=PLpDgPu_Hq9ZxWC8CAODefCnjAov6t-3ev)
+- [Where Questions in Vietnamese](https://youtu.be/6bIlH-owyu0?list=PLpDgPu_Hq9ZxWC8CAODefCnjAov6t-3ev)
+- [How long Questions in Vietnamese](https://youtu.be/Yb1D_ForCrw?list=PLpDgPu_Hq9ZxWC8CAODefCnjAov6t-3ev)
+- [Which Questions in Vietnamese](https://youtu.be/gg0upHdLoFg?list=PLpDgPu_Hq9ZxWC8CAODefCnjAov6t-3ev)
+- [Who question](https://youtu.be/Q-UGNpVSQR4?list=PLpDgPu_Hq9ZxWC8CAODefCnjAov6t-3ev)
 
 ### 2. Yes-no questions
 - [Learn Vietnamese with Tvo - Yes/NO Questions](https://youtu.be/D4YBpckXcYc?list=PLpDgPu_Hq9ZxWC8CAODefCnjAov6t-3ev)
 
 ### 3. Choice questions
-- [Learn Vietnamese with Tvo | Yes/NO in Vietnamese](https://youtu.be/OwbwD6fcGHY?list=PLpDgPu_Hq9ZxWC8CAODefCnjAov6t-3ev)
+- [Learn Vietnamese with Tvo - Yes/NO in Vietnamese](https://youtu.be/OwbwD6fcGHY?list=PLpDgPu_Hq9ZxWC8CAODefCnjAov6t-3ev)
 
 ### 4. Tag questions
 - [Tag Questions - Learn Vietnamese with Tvo](https://youtu.be/BHxyzp8Wgv4?list=PLpDgPu_Hq9ZxWC8CAODefCnjAov6t-3ev)
 - [Learn Vietnamese with TVO - Tag Questions](https://tiengvietoi2013.wixsite.com/tiengvietoi/post/learn-vietnamese-with-tvo-tag-questions) - Same as above.
+
+### Other
 
 ### Other
 - [How to use “đâu – ở đâu” in Vietnamese](https://info.svff.online/how-to-use-dau-o-dau-in-vietnamese/)
@@ -60,12 +67,13 @@ All about making questions in a Youtube playlist: [Learn Vietnamese: Making Ques
 ### 3. Personal pronouns & terms of address
 - [Vietnamese Pronoun](https://learnvietnamese.com.vn/en/beginner-lesson-5-1.html)
 - [Say Pronouns in Vietnamese: I/You/We and My/Your/Our - YourVietnamese](https://yourvietnamese.com/learn-vietnamese/vietnamese-pronouns/)
-
+- [Possessive Pronouns - Tieng Viet Oi](https://youtu.be/V8tCtIqlFSM?list=PLpDgPu_Hq9ZxWC8CAODefCnjAov6t-3ev)
 
 ## Verbs
 - [Vietnamese verbs - YourVietnamese](https://yourvietnamese.com/learn-vietnamese/vietnamese-verbs/)
 
 ### 0. TO BE
+- [Là vs. Ở – Understanding the Nuances of “To Be” in Vietnamese](https://talkpal.ai/vocabulary/la-vs-o-understanding-the-nuances-of-to-be-in-vietnamese/)
 
 ### 1. Modal verbs
 - [Vietnamese Modals and Auxiliary Verbs](https://vietlango.com/grammar_theory/vietnamese-modals-and-auxiliary-verbs/)
@@ -74,6 +82,7 @@ All about making questions in a Youtube playlist: [Learn Vietnamese: Making Ques
 - [Imperative form in Vietnamese - Vietnamese Grammar](https://learnpal.ai/grammar_theory/imperative-form-in-vietnamese-in-vietnamese-grammar/)
 
 ### 3. Passive constructions
+- [Passive Voice - Tieng Viet Oi](https://youtu.be/EvdPnLh292Q?list=PLpDgPu_Hq9ZxWC8CAODefCnjAov6t-3ev)
 - [Passive Voice in Vietnamese Grammar](https://talkpal.ai/grammar/passive-voice-in-vietnamese-grammar/)
 
 ## Adjectives
@@ -91,6 +100,7 @@ All about making questions in a Youtube playlist: [Learn Vietnamese: Making Ques
 ### Prepositions 
 - [Vietnamese Prepositions](https://learnvietnamese.com.vn/en/elementary-lesson-1-1.html)
 - [How to use the prepositions of place - SVFF](https://info.svff.online/how-to-use-the-prepositions-of-place-learn-vietnamese-southern-dialect-3/)
+- [Learn Vietnamese with Tvo - Prepositions for Time](https://youtu.be/ys4pQkeS8xk?list=PLpDgPu_Hq9ZxWC8CAODefCnjAov6t-3ev)
 
 ### Conjunctions & Negations
 - [Vietnamese Negation](https://learnvietnamese.com.vn/en/beginner-lesson-6-1.html)
@@ -103,3 +113,4 @@ All about making questions in a Youtube playlist: [Learn Vietnamese: Making Ques
 - [Comparison in Vietnamese](https://learnvietnamese.com.vn/en/comparison-in-vietnamese.html)
 - [Modes of expression in Vietnamese](https://learnvietnamese.com.vn/en/modes-of-expression-in-vietnamese.html)
 - [Compound words in Vietnamese](https://learnvietnamese.com.vn/en/compound-words-in-vietnamese.html)
+- [Live with Lan: Conditional Sentences](https://youtu.be/uEUJfx5NbgM?list=PLpDgPu_Hq9ZxWC8CAODefCnjAov6t-3ev)
